@@ -1,0 +1,23 @@
+HTTrack3.48-22 launched on Tue, 12 Jun 2018 00:16:13 at http://heybi-viral.blogspot.com/
+(winhttrack http://heybi-viral.blogspot.com/ -O "/root/websites/Django1" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:16:49	Error: 	"Not Found" (404) at link heybi-viral.blogspot.com/owl.video.play.png (from heybi-viral.blogspot.com/)
+00:17:04	Error: 	"Not Found" (404) at link heybi-viral.blogspot.com/https (from heybi-viral.blogspot.com/)
+00:17:35	Error: 	"Not Found" (404) at link heybi-viral.blogspot.com/2017/11/owl.video.play.png (from heybi-viral.blogspot.com/2017/11/the-brandenburg-gate-is-without-doubt.html)
+00:17:35	Error: 	"Not Found" (404) at link heybi-viral.blogspot.com/default.jpg (from heybi-viral.blogspot.com/2017/11/the-brandenburg-gate-is-without-doubt.html)
+00:17:35	Error: 	"Not Found" (404) at link heybi-viral.blogspot.com/maxresdefault.jpg (from heybi-viral.blogspot.com/2017/11/the-brandenburg-gate-is-without-doubt.html)
+00:17:35	Error: 	"Not Found" (404) at link heybi-viral.blogspot.com/2018/04/owl.video.play.png (from heybi-viral.blogspot.com/2018/04/why-japanese-dont-litter-lesson-in.html)
+00:17:35	Error: 	"Not Found" (404) at link heybi-viral.blogspot.com/2018/03/owl.video.play.png (from heybi-viral.blogspot.com/2018/03/bbcs-top-100-books-you-need-to-read.html)
+00:17:35	Error: 	"Not Found" (404) at link heybi-viral.blogspot.com/2018/02/owl.video.play.png (from heybi-viral.blogspot.com/2018/02/mens-guide-to-staying-fashionable-while.html)
+00:17:35	Error: 	"Not Found" (404) at link heybi-viral.blogspot.com/2018/01/owl.video.play.png (from heybi-viral.blogspot.com/2018/01/the-subway-is-being-fixed-but-can.html)
+00:17:35	Error: 	"Not Found" (404) at link heybi-viral.blogspot.com/2017/12/owl.video.play.png (from heybi-viral.blogspot.com/2017/12/one-of-anthea-hamiltons-pumpkin-mermen.html)
+00:17:35	Error: 	"Not Found" (404) at link heybi-viral.blogspot.com/p/owl.video.play.png (from heybi-viral.blogspot.com/p/about.html)
+00:17:35	Error: 	"Not Found" (404) at link heybi-viral.blogspot.com/2017/10/owl.video.play.png (from heybi-viral.blogspot.com/2017/10/top-5-japanese-girl-bands.html)
+
+HTTrack Website Copier/3.48-22 mirror complete in 1 minutes 22 seconds : 60 links scanned, 47 files written (2760177 bytes overall) [848787 bytes received at 10351 bytes/sec], 3574066 bytes transferred using HTTP compression in 60 files, ratio 23%
+(12 errors, 0 warnings, 0 messages)
